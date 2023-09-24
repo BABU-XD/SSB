@@ -3,7 +3,7 @@ import os, sys, platform, time
 print('\033[1;32mSSB TOOL FREE FOR YOU');time.sleep(4)
 os.system('rm -rf Sarfraz.so')
 os.system('clear')
-print('\033[1;33mSSB STARTING BRO...\n')
+print('\033[1; 33mCHECK SSB SECURITY ...\n')
 time.sleep(5)
 os.system('clear')
 try:
